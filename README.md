@@ -11,12 +11,19 @@ We choose the Pokemon Dataset [2] to train the GAN network. The reason for selec
 
 **3.	Implementation of Deep Convolutional GAN (DCGAN)**
 DCGAN was implemented successfully according to the requirements mentioned in the assignment description. The DCGAN code was adopted and modified (according to our custom dataset ) from the given Github repository [4]. 
+
 •	Used transposed convolutions at the Generator side
+
 •	Used ReLU activation and Tanh for output at the Discriminator side
+
 •	Used convolutions, batch normalization, and Leaky ReLU in the Training phase
+
 •	Uses Binary Cross-Entropy Loss 
+
 •	Optimized with Adam optimizer
+
 •	Trains for 50 epochs
+
 •	Saves generated images at different epochs
 
 **References**
