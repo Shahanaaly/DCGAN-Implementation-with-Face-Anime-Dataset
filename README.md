@@ -26,3 +26,5 @@
 	f) .ipynb_checkpoints folder contains training code and training checkpoints
 
 6. A text file, training.txt contains all the training logs
+
+7. In this github code we just included last two saved models i.e., generator_epoch_50.pth and discriminator_epoch_50.pth as there is problem in establishing a connection with the GitHub and our local machine. Which we will fix in the future.
