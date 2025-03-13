@@ -1,3 +1,7 @@
+
+**Note: We upload all the files manually (and zipping the folders to be less than or equal to 25MB) rather than cloning our local machine with the GihHub as there is problem in establishing a connection with the GitHub and our local machine. Which we will fix in the future**
+
+
 1. To run this code, you must specify exact paths inside the code. The code was initially written based on different websites like GitHub and Reddit. Then, in the final stage, it is optimized by using the Open-AI Canvas to refine and remove unnecessary code and repetitions. 
 
 2. This code is written in a Jupyter notebook/Google Colab notebook, so you need to use Jupyternote Book or Google Colab with Python 3.
