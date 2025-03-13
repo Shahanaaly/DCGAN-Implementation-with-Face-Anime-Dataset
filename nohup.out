@@ -1,0 +1,253 @@
+[I 2025-03-13 15:59:52.828 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-03-13 15:59:52.831 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-03-13 15:59:52.834 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-03-13 15:59:53.014 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-03-13 15:59:53.028 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-03-13 15:59:53.030 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-03-13 15:59:53.030 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-03-13 15:59:53.031 LabApp] JupyterLab extension loaded from /home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/jupyterlab
+[I 2025-03-13 15:59:53.031 LabApp] JupyterLab application directory is /home/lisic/anaconda3/envs/czr/share/jupyter/lab
+[I 2025-03-13 15:59:53.032 LabApp] Extension Manager is 'pypi'.
+[I 2025-03-13 15:59:53.059 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-03-13 15:59:53.059 ServerApp] Serving notebooks from local directory: /home/lisic/hasseb
+[I 2025-03-13 15:59:53.059 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2025-03-13 15:59:53.059 ServerApp] http://a1005:9005/lab
+[I 2025-03-13 15:59:53.059 ServerApp]     http://127.0.0.1:9005/lab
+[I 2025-03-13 15:59:53.059 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-03-13 15:59:53.078 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-03-13 16:01:20.960 ServerApp] 302 GET / (@10.151.9.38) 0.34ms
+[I 2025-03-13 16:01:21.104 LabApp] 302 GET /lab? (@10.151.9.38) 0.79ms
+[I 2025-03-13 16:01:25.485 ServerApp] User 86fcb9c8cff041ecb370e5060a3e1a75 logged in.
+[I 2025-03-13 16:01:25.486 ServerApp] 302 POST /login?next=%2Flab%3F (86fcb9c8cff041ecb370e5060a3e1a75@10.151.9.38) 92.38ms
+[W 2025-03-13 16:01:26.807 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 16:01:32.891 ServerApp] Creating new directory in 
+[I 2025-03-13 16:02:02.427 ServerApp] Uploading file to /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:02:03.694 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:02:04.060 ServerApp] Kernel started: 24cc8555-02de-4c14-8c32-5bd6a7db416b
+[I 2025-03-13 16:02:14.530 ServerApp] Kernel started: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:14.531 ServerApp] Kernel shutdown: 24cc8555-02de-4c14-8c32-5bd6a7db416b
+[I 2025-03-13 16:02:24.210 ServerApp] Connecting to kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc.
+[I 2025-03-13 16:02:24.231 ServerApp] Connecting to kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc.
+[I 2025-03-13 16:02:24.252 ServerApp] Connecting to kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc.
+[I 2025-03-13 16:02:24.279 ServerApp] Connecting to kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc.
+[W 2025-03-13 16:02:24.534 ServerApp] Wait for final termination of kernel timed out - continuing...
+[W 2025-03-13 16:02:28.769 ServerApp] Nudge: attempt 10 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:02:28.788 ServerApp] Nudge: attempt 10 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:02:33.781 ServerApp] Nudge: attempt 20 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:02:33.801 ServerApp] Nudge: attempt 20 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:02:38.796 ServerApp] Nudge: attempt 30 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:02:38.816 ServerApp] Nudge: attempt 30 on kernel da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:49.199 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:52.802 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:55.281 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:55.406 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:55.865 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:56.026 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:57.135 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:02:57.303 ServerApp] Kernel interrupted: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[I 2025-03-13 16:03:03.921 ServerApp] Kernel started: bc751d53-fbd7-424e-9fa1-3deb6ee32992
+[I 2025-03-13 16:03:03.922 ServerApp] Kernel shutdown: da2ad0e4-c69b-4eee-854e-45d902dc04dc
+[W 2025-03-13 16:03:04.099 ServerApp] Timeout waiting for kernel_info reply from 24cc8555-02de-4c14-8c32-5bd6a7db416b
+[E 2025-03-13 16:03:04.099 ServerApp] Uncaught exception GET /api/kernels/24cc8555-02de-4c14-8c32-5bd6a7db416b/channels?session_id=7d6dc9ad-0c62-4070-a761-aead68300568 (10.151.9.38)
+    HTTPServerRequest(protocol='http', host='10.11.65.5:9005', method='GET', uri='/api/kernels/24cc8555-02de-4c14-8c32-5bd6a7db416b/channels?session_id=7d6dc9ad-0c62-4070-a761-aead68300568', version='HTTP/1.1', remote_ip='10.151.9.38')
+    Traceback (most recent call last):
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/jupyter_server/services/kernels/websocket.py", line 66, in get
+        await super().get(kernel_id=kernel_id)
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/tornado/websocket.py", line 273, in get
+        await self.ws_connection.accept_connection(self)
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/tornado/websocket.py", line 863, in accept_connection
+        await self._accept_connection(handler)
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/tornado/websocket.py", line 903, in _accept_connection
+        self.selected_subprotocol = handler.select_subprotocol(subprotocols)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/jupyter_server/services/kernels/websocket.py", line 88, in select_subprotocol
+        preferred_protocol = self.connection.kernel_ws_protocol
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    AttributeError: 'NoneType' object has no attribute 'kernel_ws_protocol'
+[E 2025-03-13 16:03:04.107 ServerApp] {
+      "Host": "10.11.65.5:9005",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+    }
+[E 2025-03-13 16:03:04.108 ServerApp] 500 GET /api/kernels/24cc8555-02de-4c14-8c32-5bd6a7db416b/channels?session_id=7d6dc9ad-0c62-4070-a761-aead68300568 (86fcb9c8cff041ecb370e5060a3e1a75@10.151.9.38) 60011.46ms referer=None
+[I 2025-03-13 16:03:04.455 ServerApp] Starting buffering for da2ad0e4-c69b-4eee-854e-45d902dc04dc:0dda355e-9352-453a-b6df-dd699320b06c
+[I 2025-03-13 16:03:04.468 ServerApp] Connecting to kernel bc751d53-fbd7-424e-9fa1-3deb6ee32992.
+[I 2025-03-13 16:03:04.489 ServerApp] Connecting to kernel bc751d53-fbd7-424e-9fa1-3deb6ee32992.
+[I 2025-03-13 16:03:04.510 ServerApp] Connecting to kernel bc751d53-fbd7-424e-9fa1-3deb6ee32992.
+[I 2025-03-13 16:03:04.664 ServerApp] Connecting to kernel bc751d53-fbd7-424e-9fa1-3deb6ee32992.
+[I 2025-03-13 16:03:04.692 ServerApp] Connecting to kernel bc751d53-fbd7-424e-9fa1-3deb6ee32992.
+[I 2025-03-13 16:03:08.934 ServerApp] Kernel interrupted: bc751d53-fbd7-424e-9fa1-3deb6ee32992
+[I 2025-03-13 16:03:09.070 ServerApp] Kernel interrupted: bc751d53-fbd7-424e-9fa1-3deb6ee32992
+[I 2025-03-13 16:03:15.489 ServerApp] New terminal with automatic name: 1
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 2025-03-13 16:07:41.928 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-03-13 16:07:41.930 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-03-13 16:07:41.934 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-03-13 16:07:42.075 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-03-13 16:07:42.089 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-03-13 16:07:42.091 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-03-13 16:07:42.091 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-03-13 16:07:42.092 LabApp] JupyterLab extension loaded from /home/lisic/anaconda3/envs/czr/lib/python3.11/site-packages/jupyterlab
+[I 2025-03-13 16:07:42.092 LabApp] JupyterLab application directory is /home/lisic/anaconda3/envs/czr/share/jupyter/lab
+[I 2025-03-13 16:07:42.092 LabApp] Extension Manager is 'pypi'.
+[I 2025-03-13 16:07:42.120 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-03-13 16:07:42.120 ServerApp] Serving notebooks from local directory: /home/lisic/hasseb
+[I 2025-03-13 16:07:42.120 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2025-03-13 16:07:42.120 ServerApp] http://a1005:9032/lab
+[I 2025-03-13 16:07:42.120 ServerApp]     http://127.0.0.1:9032/lab
+[I 2025-03-13 16:07:42.120 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-03-13 16:07:42.140 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-03-13 16:07:49.651 ServerApp] 302 GET / (@10.151.9.38) 0.52ms
+[I 2025-03-13 16:07:49.660 LabApp] 302 GET /lab? (@10.151.9.38) 0.84ms
+[I 2025-03-13 16:07:54.222 ServerApp] User 92a602a39ee448038c63bea5c99cb93d logged in.
+[I 2025-03-13 16:07:54.223 ServerApp] 302 POST /login?next=%2Flab%3F (92a602a39ee448038c63bea5c99cb93d@10.151.9.38) 86.69ms
+[W 2025-03-13 16:07:55.333 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 16:07:55.719 ServerApp] New terminal with automatic name: 4
+[W 2025-03-13 16:08:00.781 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:08:01.119 ServerApp] Kernel started: a8eb2166-e41c-4ccc-9951-e1da7811dccd
+[I 2025-03-13 16:08:01.491 ServerApp] Connecting to kernel a8eb2166-e41c-4ccc-9951-e1da7811dccd.
+[I 2025-03-13 16:08:01.515 ServerApp] Connecting to kernel a8eb2166-e41c-4ccc-9951-e1da7811dccd.
+[I 2025-03-13 16:08:01.537 ServerApp] Connecting to kernel a8eb2166-e41c-4ccc-9951-e1da7811dccd.
+[I 2025-03-13 16:08:05.604 ServerApp] Kernel started: 4e4495ca-9f01-4d61-b27f-44a04923ab0a
+[I 2025-03-13 16:08:05.605 ServerApp] Kernel shutdown: a8eb2166-e41c-4ccc-9951-e1da7811dccd
+[I 2025-03-13 16:08:05.998 ServerApp] Connecting to kernel 4e4495ca-9f01-4d61-b27f-44a04923ab0a.
+[I 2025-03-13 16:08:06.020 ServerApp] Connecting to kernel 4e4495ca-9f01-4d61-b27f-44a04923ab0a.
+[I 2025-03-13 16:08:08.981 ServerApp] Kernel started: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:08:08.982 ServerApp] Kernel shutdown: 4e4495ca-9f01-4d61-b27f-44a04923ab0a
+[I 2025-03-13 16:08:09.357 ServerApp] Connecting to kernel 54a2ad42-760a-44f9-9d09-e67cbbaa4a16.
+[I 2025-03-13 16:08:09.385 ServerApp] Connecting to kernel 54a2ad42-760a-44f9-9d09-e67cbbaa4a16.
+[I 2025-03-13 16:08:13.643 ServerApp] Kernel interrupted: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:08:42.167 ServerApp] Kernel restarted: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:08:42.177 ServerApp] Starting buffering for 54a2ad42-760a-44f9-9d09-e67cbbaa4a16:cf3f0a72-1986-4894-82e1-1f3b0a190cc1
+[I 2025-03-13 16:08:42.186 ServerApp] Connecting to kernel 54a2ad42-760a-44f9-9d09-e67cbbaa4a16.
+[I 2025-03-13 16:08:42.186 ServerApp] Restoring connection for 54a2ad42-760a-44f9-9d09-e67cbbaa4a16:cf3f0a72-1986-4894-82e1-1f3b0a190cc1
+[I 2025-03-13 16:09:11.235 ServerApp] Kernel interrupted: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:09:14.366 ServerApp] Kernel interrupted: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:10:01.282 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:10:01.283 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:12:01.432 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:12:01.433 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:13:51.702 ServerApp] Uploading file to /hasseb/Anime_Faces_12000.zip
+[I 2025-03-13 16:14:01.659 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:14:01.660 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:14:07.120 ServerApp] Saving file at /hasseb/Anime_Faces_12000.zip
+[I 2025-03-13 16:16:01.882 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:16:01.883 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:18:02.032 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:18:02.033 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:20:02.198 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:20:02.199 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:22:02.379 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:22:02.380 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:24:02.620 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:24:02.621 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:25:56.608 ServerApp] Kernel restarted: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:25:56.616 ServerApp] Starting buffering for 54a2ad42-760a-44f9-9d09-e67cbbaa4a16:cf3f0a72-1986-4894-82e1-1f3b0a190cc1
+[I 2025-03-13 16:25:56.630 ServerApp] Connecting to kernel 54a2ad42-760a-44f9-9d09-e67cbbaa4a16.
+[I 2025-03-13 16:25:56.631 ServerApp] Restoring connection for 54a2ad42-760a-44f9-9d09-e67cbbaa4a16:cf3f0a72-1986-4894-82e1-1f3b0a190cc1
+[I 2025-03-13 16:26:02.923 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:26:02.924 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:26:13.397 ServerApp] Kernel started: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:26:13.398 ServerApp] Kernel shutdown: 54a2ad42-760a-44f9-9d09-e67cbbaa4a16
+[I 2025-03-13 16:26:13.780 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 16:26:26.620 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:cf3f0a72-1986-4894-82e1-1f3b0a190cc1
+[W 2025-03-13 16:26:28.038 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 16:26:28.076 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 16:26:28.230 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:7d6cf1c4-4ec3-4aff-8f23-079a0847ff40
+[W 2025-03-13 16:26:28.420 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:26:28.713 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 16:28:29.220 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:28:29.221 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:30:29.520 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:30:29.521 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:31:24.261 ServerApp] New terminal with automatic name: 1
+[I 2025-03-13 16:31:33.487 ServerApp] Creating new notebook in /hasseb
+[I 2025-03-13 16:31:34.856 ServerApp] Kernel started: 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e
+[I 2025-03-13 16:31:35.226 ServerApp] Connecting to kernel 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e.
+[I 2025-03-13 16:31:35.390 ServerApp] Starting buffering for 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e:3c97e5c0-a110-4a4d-b7ae-f41261bca0be
+[I 2025-03-13 16:31:35.397 ServerApp] Connecting to kernel 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e.
+[I 2025-03-13 16:31:35.421 ServerApp] Connecting to kernel 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e.
+[I 2025-03-13 16:31:53.273 ServerApp] Starting buffering for 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e:50eced25-b982-428f-9c28-d7fbc566bdc7
+[I 2025-03-13 16:31:58.717 ServerApp] Kernel shutdown: 6fe897cb-327c-42a6-8fb9-dfd7d485ce5e
+[W 2025-03-13 16:31:59.057 ServerApp] delete /hasseb/Untitled.ipynb
+[I 2025-03-13 16:32:29.774 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:32:29.774 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:34:30.045 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:34:30.045 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:36:30.224 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:36:30.224 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:38:30.587 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:38:30.587 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:40:08.019 ServerApp] Kernel interrupted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:40:12.374 ServerApp] Kernel interrupted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:40:55.754 ServerApp] Kernel interrupted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:40:55.893 ServerApp] Kernel interrupted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:40:56.053 ServerApp] Kernel interrupted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:41:01.974 ServerApp] Kernel restarted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:41:01.984 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:f07cacc3-7e2f-428a-8776-306bbe5c01ab
+[I 2025-03-13 16:41:01.995 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 16:41:01.996 ServerApp] Restoring connection for 79307a9e-0369-4f08-a0a9-87b093802cc2:f07cacc3-7e2f-428a-8776-306bbe5c01ab
+[I 2025-03-13 16:41:10.978 ServerApp] Kernel restarted: 79307a9e-0369-4f08-a0a9-87b093802cc2
+[I 2025-03-13 16:41:10.988 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:f07cacc3-7e2f-428a-8776-306bbe5c01ab
+[I 2025-03-13 16:41:10.996 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 16:41:10.996 ServerApp] Restoring connection for 79307a9e-0369-4f08-a0a9-87b093802cc2:f07cacc3-7e2f-428a-8776-306bbe5c01ab
+[I 2025-03-13 16:42:30.731 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:42:30.732 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:44:30.895 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:44:30.896 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:46:31.063 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:46:31.064 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:48:31.530 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:48:31.531 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:52:31.771 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:52:31.772 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:54:31.949 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:54:31.949 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 16:58:32.114 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 16:58:32.114 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:06:33.177 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:06:33.178 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:08:35.410 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:08:35.411 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:10:39.385 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:10:39.386 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:14:41.008 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:14:41.009 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:16:43.877 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:16:43.878 ServerApp] Notebook work/DCGAN Optimized Code.ipynb is not trusted
+[I 2025-03-13 17:20:44.993 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[W 2025-03-13 17:23:42.158 ServerApp] delete /Generated_Images
+[I 2025-03-13 17:24:46.936 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:26:47.644 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:28:48.389 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:32:49.006 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:34:50.387 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:36:51.439 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:38:52.411 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:42:54.106 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:46:55.086 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:48:55.186 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:50:55.269 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:52:55.735 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 17:55:25.633 ServerApp] Saving file at /work/DCGAN Optimized Code.ipynb
+[I 2025-03-13 19:52:47.327 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:f07cacc3-7e2f-428a-8776-306bbe5c01ab
+[W 2025-03-13 19:52:49.543 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 19:52:49.610 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 19:52:49.790 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:e5536dfb-ed15-473a-b1b6-3b930b6c3434
+[W 2025-03-13 19:52:49.870 ServerApp] 404 GET /api/contents/hasseb/Untitled.ipynb?content=0&hash=0&1741866769863 (92a602a39ee448038c63bea5c99cb93d@10.151.9.38) 4.29ms referer=http://10.11.65.5:9032/lab/tree/work/DCGAN%20Optimized%20Code.ipynb
+[W 2025-03-13 19:52:49.870 ServerApp] 404 GET /api/contents/hasseb/Untitled.ipynb?content=0&hash=0&1741866769863 (10.151.9.38): No such file or directory: hasseb/Untitled.ipynb
+[W 2025-03-13 19:52:49.875 ServerApp] 404 GET /api/contents/hasseb/Untitled.ipynb?content=0&hash=0&1741866769864 (92a602a39ee448038c63bea5c99cb93d@10.151.9.38) 1.13ms referer=http://10.11.65.5:9032/lab/tree/work/DCGAN%20Optimized%20Code.ipynb
+[W 2025-03-13 19:52:49.875 ServerApp] 404 GET /api/contents/hasseb/Untitled.ipynb?content=0&hash=0&1741866769864 (10.151.9.38): No such file or directory: hasseb/Untitled.ipynb
+[I 2025-03-13 19:52:51.427 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 19:53:28.890 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:b808d55e-be51-4617-85a0-68551d59f4c8
+[W 2025-03-13 19:53:30.325 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 19:53:30.624 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 19:53:30.651 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:0041e95a-d0dd-499f-90b7-48a32bdc3ad4
+[I 2025-03-13 19:53:31.388 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 19:54:12.912 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:012e083c-de46-4160-a1e8-953b63f0dbfb
+[W 2025-03-13 19:54:14.209 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-03-13 19:54:14.247 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
+[I 2025-03-13 19:54:14.397 ServerApp] Starting buffering for 79307a9e-0369-4f08-a0a9-87b093802cc2:46713895-9848-4833-aca5-d2c7007291cb
+[I 2025-03-13 19:54:15.707 ServerApp] Connecting to kernel 79307a9e-0369-4f08-a0a9-87b093802cc2.
